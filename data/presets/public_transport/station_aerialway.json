@@ -17,10 +17,6 @@
         "public_transport": "station",
         "aerialway": "station"
     },
-    "addTags": {
-        "public_transport": "station",
-        "aerialway": "station"
-    },
     "reference": {
         "key": "aerialway",
         "value": "station"
