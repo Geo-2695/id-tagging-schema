@@ -15,10 +15,6 @@
     "tags": {
         "amenity": "ferry_terminal"
     },
-    "addTags": {
-        "amenity": "ferry_terminal",
-        "ferry": "yes"
-    },
     "matchScore": 0.95,
     "name": "Ferry Terminal",
     "searchable": false
